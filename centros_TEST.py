@@ -6,7 +6,7 @@ Created on Tue Oct 15 20:48:20 2019
 @author: Toñi Reina
 """
 
-from centros_SOLUCION import *
+from centros import *
 
 def mostrar_numerados(centros):
     for n,e in enumerate(centros):
